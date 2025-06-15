@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**SiqiQin-ww/SiqiQin-ww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 你好，我是Siqi Qin
 欢迎来到我的个人主页！  
 我专注于环境、社会和治理（ESG）领域的研究，尤其是AI与数据分析在ESG报告中的应用。
@@ -16,3 +13,6 @@
 
 ## 联系我
 - Email: Siqi.Qin22@student.xjtlu.edu.cn
+  
+<!--
+**SiqiQin-ww/SiqiQin-ww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
