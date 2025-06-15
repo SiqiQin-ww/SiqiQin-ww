@@ -1,10 +1,9 @@
   # 👋 Siqi Qin 的个人主页
 ## 🌱 关于我
--我是Siqi Qin，目前参与**ESG智能研究与实践先锋计划**。本项目旨在深入研究ESG领域，构建专有的稳定的esg知识图谱，并以此为基础，将AI应用于ESG报告生成与评级等更多环节，形成AI+ESG的应用格局。
--我拥有坚实的编程基础，熟练使用Python以及机器学习框架，如scikit-learn，进行数据处理与优化建模。
+我是Siqi Qin，目前参与**ESG智能研究与实践先锋计划**。本项目旨在深入研究ESG领域，构建专有的稳定的esg知识图谱，并以此为基础，将AI应用于ESG报告生成与评级等更多环节，形成AI+ESG的应用格局。我拥有坚实的编程基础，熟练使用Python以及机器学习框架，如scikit-learn，进行数据处理与优化建模。
 - **主要负责**：AI驱动的ESG报告自动化生成工具 
 - **技术栈**：AutoGen Studio
-- **联系方式**：Email: Siqi.Qin22@student.xjtlu.edu.cn
+- **联系方式**：Siqi.Qin22@student.xjtlu.edu.cn
 
 ## 我的项目
 ### ESG智能研究与实践先锋计划
